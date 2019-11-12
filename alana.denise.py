@@ -1,4 +1,4 @@
-import cv2.cv as cv alana
+import cv2.cv as cv 
 from datetime import datetime
 import time
 
